@@ -1,0 +1,133 @@
+.deleteButton {
+    color: #000000;
+    text-decoration: none; 
+}
+
+.navName {
+    color: #FFFFFF;
+    font-size: 1.25em;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+input[name="visibility"] {
+	accent-color: #9302E7;
+}
+
+.errorMessage {
+    color: #F44336; 
+}
+
+.bg-image {
+    background-image: url("nightsky.jpg");
+    height: 100vh;
+}
+
+.darkBackground {
+    background-color: rgba(0, 0, 0, 0.5); 
+}
+
+.homeDivider {
+    color: #9302E7;
+    width: 12%;
+    border-width: 6px;
+    opacity: 100%;
+}
+
+.sparkBranding {
+    align-items: center;
+    display: flex;
+}
+
+.homepageText {
+    font-weight: 400;
+}
+
+label {
+    font-weight: 500;
+}
+
+.loginBody {
+    background-color: #f5f5f5;
+}
+
+a.purple {
+    color: #9302E7;
+}
+
+a.purple:hover {
+    color: #7B00C2;
+}
+
+.purpleButton { 
+    background-color: #9302E7;
+    color: #FFFFFF;
+}
+
+.purpleButton:hover {
+    background-color: #7B00C2;
+    color: #FFFFFF;
+}
+
+.purpleButton:active {
+    background-color: #9302E7;
+    color: #FFFFFF;
+}
+
+.purpleOutlineBtn {
+    background-color: #FFFFFF;
+    border-color: #9302E7;
+    color: #9302E7;
+}
+
+.purpleOutlineBtn:hover {
+    background-color: #9302E7;
+    border-color: #9302E7;
+    color: #ffffff;
+}
+
+.inputFocus:focus {
+    border-color: #9302E7;
+    box-shadow: 0px 0px 5px 1px rgb(147, 2, 231, .25);
+}
+
+.bookmarkTitle {
+    color: #9302E7;
+    text-decoration: none;
+}
+
+.bookmarkTitle:hover {
+    color: #7B00C2
+}
+
+.bookmarkURL {
+    color: #000000;
+    text-decoration: none;
+}
+
+.bookmarkURL:hover {
+    text-decoration: underline;
+}
+
+.deleteIcon {
+    padding-bottom: .15rem;
+}
+
+.deleteBtn {
+    text-decoration: none;
+}
+
+.shared-badge {
+    margin-top: 10px;
+    background-color: #e8e8e8;
+    color: #000000
+}
+
+.private-badge {
+    margin-top: 10px;
+    background-color: #343434;
+}
