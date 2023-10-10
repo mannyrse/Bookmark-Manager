@@ -1,2 +1,1 @@
-# CNMT310FINAL
-Final Project
+Spark Bookmark Manager
